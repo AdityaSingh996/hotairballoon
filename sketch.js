@@ -66,8 +66,8 @@ function writePosition(x,y){
 function readposition(data){
 position = data.val()
 console.log(position);
-ball.x=position.x
-ball.y=position.y
+balloon.x=position.x
+balloon.y=position.y
 
 
 }
